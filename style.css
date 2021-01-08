@@ -15,12 +15,13 @@ ul li a{
     color: black;
     text-transform: capitalize;
     text-decoration: none;
-    padding: 13px; 18px;
+    padding: 13px 18px;
     display: inline;
 
 
 }
 
+}
 h1{
     font-size: 60px;
     font-weight: 900;
@@ -72,3 +73,35 @@ section .h-w #latest{
 .img-container img{
     width: 100%;
 }
+.box-1{
+    background: url(images/Group_33094_1.png);no-repeat scroll center center /cover;
+    width: 50%;
+    margin: auto;
+    padding: 102px 18px;
+    overflow: hidden;
+    
+ 
+}
+.box-1 img{
+    border-radius: 30px;
+    line-height: 50px;
+    box-sizing: border-box;
+
+}
+.tago{
+    overflow: hidden;
+    width: 60%;
+    padding-inline-start: 540px;
+   padding-top: 80px;
+  margin-top: -203px;
+  font-size: 26px;
+  color: aliceblue;
+   }
+
+.button-ow{
+    text-decoration: none;
+}
+ 
+   
+    
+
